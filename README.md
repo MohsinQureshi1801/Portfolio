@@ -12,3 +12,9 @@ I'm quite happy with the final product: HelloDoctor was built entirely in Swift,
 </p>
   
   
+    # Deikho - Video on demand servic App
+[Deikho]() App is a Video on demand servic App where you can see video online on ios device <b>Under Developement </b>
+<p align="center">
+<img src="deikho1.png" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho2.png" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho3.png" width="228" title="Flix">
+</p>
+<b>Under Testing</b>
