@@ -1,7 +1,7 @@
 # Portfolio
 
 <div class="entry">
-    <p>Software Engineer as an iOS Developer for <strong>more than 1yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep me up with new technologies.<br>
+    <p>Hello, I'm a Software Engineer as an iOS Developer for <strong>more than 1yrs</strong>. Developed native iOS apps ranging from simple education apps to high-end secure enterprise apps. Always working towards clean code, intuitive user experience, data security. I am striving to keep up with new technologies.<br>
       
       # Hello Doctor (Digital Healthcare Service)
 [HelloDoctor](https://apps.apple.com/us/app/hello-doctor-patient/id1502356693?ls=1) is a online Doctor's App. The basic requirements for the app were that it help address the health related problem by providing reliable online health platform which connects the Certified and Authorised Doctor’s to the Clients / Patients face to face on video / chat / audio calling.
