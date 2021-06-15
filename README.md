@@ -19,7 +19,7 @@ HelloDoctor was built entirely in Swift, with no external dependencies, and the 
 </p>
 <b>Under Testing</b>
 
-     <b>Mobile NewsPaper App</b>
+     # Mobile NewsPaper App
 [Mobile Akhbar]() App will provide users to read online newspaper.
 <p align="center">
 <img src="news1.jpeg" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="news2.jpeg" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="news3.jpeg" width="228" title="DarkRoom">
