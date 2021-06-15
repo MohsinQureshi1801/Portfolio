@@ -18,3 +18,9 @@ HelloDoctor was built entirely in Swift, with no external dependencies, and the 
 <img src="Deikho1.jpeg" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho2.jpeg" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho3.jpeg" width="228" title="Flix">
 </p>
 <b>Under Testing</b>
+
+    # <b>Mobile NewsPaper App</b>
+[Mobile Akhbar]() App app will provide users to read online newspaper.
+<p align="center">
+<img src="akhbar1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="akhbar2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="akhbar3.png" width="228" title="DarkRoom">
+</p>
