@@ -14,8 +14,8 @@ HelloDoctor was built entirely in Swift, with no external dependencies, and the 
 </p>
   
   
-    # Deikho - Video on demand servic App
-[Deikho]() App is a Video on demand servic App where you can watch video online on ios device <b>Under Developement </b>
+    # Deikho - Video on demand service App
+[Deikho]() App is a Video on demand service App where you can watch video online on ios device <b>Under Developement </b>
 <p align="center">
 <img src="Deikho1.jpeg" width="230"  title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho2.jpeg" width="230" title="Flix">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="deikho3.jpeg" width="228" title="Flix">
 </p>
