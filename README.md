@@ -28,7 +28,8 @@ HelloDoctor was built entirely in Swift, with no external dependencies, and the 
 </p>
     
      # Lifestyle
- [Lifestyle]() is an online Telenors app that helps you have a more balanced and healthy lifestyle. It shows users nutritional details in food products to fit their unique lifestyle.
+ [Lifestyle]() is an online Telenors app that helps you have a more balanced and healthy lifestyle. It shows users nutritional details in food products     to fit their unique lifestyle.
+ Its many other unique features such as shopping, entertainment news, horoscope and astrology, and art & interior promote a healthy lifestyle.
 <p align="center">
 <img src="s1.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="s2.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="s3.png" width="228" title="DarkRoom">
 </p>
